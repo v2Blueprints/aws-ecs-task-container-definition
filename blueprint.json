@@ -1,0 +1,14 @@
+{
+	"identifier": "aws_ecs_task_container_definition",
+	"about": {
+		"title": "ECS task container definition ",
+		"explanation": "To embed in ECS task definition "
+	},
+	"configuration": {
+		"name": "first",
+		"image": "service-first",
+		"cpu": 10,
+		"memory": 512,
+		"essential": true
+	}
+}
