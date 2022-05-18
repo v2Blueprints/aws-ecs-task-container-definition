@@ -1,5 +1,5 @@
 {
-	"identifier": "aws_ecs_task_container_definition",
+	"identifier": "aws-ecs-task-container-definition",
 	"about": {
 		"title": "ECS task container definition ",
 		"explanation": "To embed in ECS task definition "
